@@ -1,5 +1,6 @@
 <h1 align="center"> Ejercicio Java / GUI</h1>
 Ejercicio de Java con Interfaz de Usuario
+
 En esta se puede: Iniciar sesion, Enviar datos segun rol de Profesor/ Estidiante, Calculadora
 
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
