@@ -3,9 +3,9 @@ Ejercicio de Java con Interfaz de Usuario
 
 En esta se puede: Iniciar sesion, Enviar datos segun rol de Profesor/ Estidiante, Calculadora
 
-<p align="center"><img src="./img_README/GUI-1.png"/></p> 
-<p align="center"><img src="./img_README/GUI-2.png"/></p> 
-<p align="center"><img src="./img_README/GUI-3.png"/></p> 
+<p align="center"><img src="./Img_README/GUI-1.png"/></p> 
+<p align="center"><img src="./Img_README/GUI-2.png"/></p> 
+<p align="center"><img src="./Img_README/GUI-3.png"/></p> 
 
 
 ## Construido con 🛠️
